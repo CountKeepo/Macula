@@ -5,8 +5,7 @@ This small project started from going through the Firefox extension store, and r
 I thought there was a tiny bit of wasted potential that was not being used, so I decided to make it perfect for my own use. 
 
 ## Install
-
-WIP
+Go check here: https://addons.mozilla.org/addon/macula-dark-theme/
 
 ## This theme is maintained by the following person.
 
