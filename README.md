@@ -1,26 +1,18 @@
-# Dracula for [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+# Dracula for the MacOS version of [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
-> A dark theme for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/dracula-dark-colorscheme/)
+This small project started from going through the Firefox extension store, and realising the MacOS version of Firefox has cleaner modification options than the Windows variant. 
 
-![Screenshot](./screenshot.png)
+I thought there was a tiny bit of wasted potential that was not being used, so I decided to make it perfect for my own use. 
 
 ## Install
 
-All instructions can be found at [draculatheme.com/firefox](https://draculatheme.com/firefox).
+WIP
 
-## Team
+## This theme is maintained by the following person.
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/firefox/graphs/contributors).
-
-| [![Raph](https://avatars2.githubusercontent.com/u/28673457?s=70)](https://github.com/RaphGL) |
+| [![CountKeepo](https://avatars.githubusercontent.com/u/64993772?s=70)](https://github.com/CountKeepo) |
 | ---------------------------------------------------------------------------------------------------- |
-| [Raph](https://github.com/RaphGL)                                                            |
-
-## Community
-
-- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
-- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
-- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
+| [CountKeepo](https://github.com/CountKeepo)                                                            |
 
 ## License
 
